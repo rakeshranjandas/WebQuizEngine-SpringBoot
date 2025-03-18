@@ -1,0 +1,107 @@
+type: edu
+files:
+  - name: src/engine/WebQuizEngine.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: src/engine/exceptions/QuizNotFoundException.java
+    visible: true
+    learner_created: false
+  - name: src/engine/services/QuizzesService.java
+    visible: true
+    learner_created: false
+  - name: src/engine/requests/CreateQuizRequest.java
+    visible: true
+    learner_created: false
+  - name: src/engine/responses/AnswerResponse.java
+    visible: true
+    learner_created: false
+  - name: src/engine/controllers/QuizzesController.java
+    visible: true
+    learner_created: false
+  - name: src/engine/requests/SolveQuizRequest.java
+    visible: true
+    learner_created: false
+  - name: src/engine/responses/BadAnswerResponse.java
+    visible: true
+    learner_created: false
+  - name: src/engine/exceptions/CreateQuizException.java
+    visible: true
+    learner_created: false
+  - name: src/engine/responses/GoodAnswerResponse.java
+    visible: true
+    learner_created: false
+  - name: src/engine/entities/Quiz.java
+    visible: true
+    learner_created: false
+  - name: src/engine/dtos/QuizDTO.java
+    visible: true
+    learner_created: false
+  - name: src/engine/mappers/QuizMapper.java
+    visible: true
+    learner_created: false
+  - name: src/engine/repositories/QuizRepository.java
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: test/tests/WebQuizEngineTest.java
+    visible: false
+    learner_created: false
+  - name: src/engine/security/AppUserDetailsService.java
+    visible: true
+    learner_created: true
+  - name: src/engine/exceptions/handler/GlobalExceptionHandler.java
+    visible: true
+    learner_created: true
+  - name: src/engine/security/SecurityConfig.java
+    visible: true
+    learner_created: true
+  - name: src/engine/services/AppUserService.java
+    visible: true
+    learner_created: true
+  - name: src/engine/security/AuthController.java
+    visible: true
+    learner_created: true
+  - name: src/engine/security/AppUserAdapter.java
+    visible: true
+    learner_created: true
+  - name: src/engine/entities/AppUser.java
+    visible: true
+    learner_created: true
+  - name: src/engine/exceptions/DeleteUnauthorizedException.java
+    visible: true
+    learner_created: true
+  - name: src/engine/repositories/AppUserRepository.java
+    visible: true
+    learner_created: true
+  - name: src/engine/requests/RegisterUserRequest.java
+    visible: true
+    learner_created: true
+  - name: src/engine/exceptions/AppUserAlreadyExistsException.java
+    visible: true
+    learner_created: true
+  - name: src/engine/entities/QuizComplete.java
+    visible: true
+    learner_created: true
+  - name: src/engine/repositories/QuizCompleteRepository.java
+    visible: true
+    learner_created: true
+  - name: src/engine/dtos/QuizCompleteDTO.java
+    visible: true
+    learner_created: true
+  - name: quizdb.mv.db
+    visible: true
+    learner_created: true
+  - name: quizdb.trace.db
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/91/stages/509/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 18 Mar 2025 09:47:22 UTC"
+record: 6
